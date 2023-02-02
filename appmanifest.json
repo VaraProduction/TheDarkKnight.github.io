@@ -1,7 +1,7 @@
 {
 	"name": "The Dark Knight",
 	"short_name": "The Dark Knight",
-	"description": "PLatformer Game",
+	"description": "Platformer Game",
 	"start_url": "index.html",
 	"display": "fullscreen",
 	"orientation": "landscape",
